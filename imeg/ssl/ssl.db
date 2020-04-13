@@ -1,0 +1,49 @@
+--- 
+files: 
+  certificate: 
+    centrogenesis_com_br_d6f93_181cd_1576976518_dd5a7552438453db2753a2ef0d4aca4f: 
+      created: '1569204119'
+      domains: 
+        - autodiscover.centrogenesis.com.br
+        - centrogenesis.com.br
+        - cpanel.centrogenesis.com.br
+        - mail.centrogenesis.com.br
+        - webdisk.centrogenesis.com.br
+        - webmail.centrogenesis.com.br
+        - www.centrogenesis.com.br
+      friendly_name: Cert for “centrogenesis.com.br”
+      id: centrogenesis_com_br_d6f93_181cd_1576976518_dd5a7552438453db2753a2ef0d4aca4f
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: d6f939535fcef1232c8e93b091f23db6cf8538dc3471489e50856b8ef9aea2d7187b5244e489d8fc0b77f0e53aac6d2250c84d46877d84666c37ca5d1227887313a2ecd33fba204410ec8a291324a2f1d7c42b2cb580b521a408216718583441ea01897c0d1526ae2036ee7550a6c17fc3f9addde9afa23e961dc414e7143e8f0422e085886f16a950cbfc0e56d96c2d07fd87fb3b263d7d65cb537be2b2c20e800687801e9328a627db12df9073f581ad7fc7dae40733588d6a08514c9222067f714c230c676fe1499622000793130276c1567f3bd1ac087d7a639a54ef212a2d4ac398fe2e0169edd25655c1525a2b4b4a7ea0ec4db89355db6d71564181cd
+      modulus_length: 2048
+      not_after: '1576976518'
+      not_before: '1569200518'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: centrogenesis.com.br
+      validation_type: dv
+  key: 
+    d6f93_181cd_154439935ece4f1bf997b19746fc2e70: 
+      created: '1569204119'
+      friendly_name: Key for “centrogenesis.com.br”
+      id: d6f93_181cd_154439935ece4f1bf997b19746fc2e70
+      modulus: d6f939535fcef1232c8e93b091f23db6cf8538dc3471489e50856b8ef9aea2d7187b5244e489d8fc0b77f0e53aac6d2250c84d46877d84666c37ca5d1227887313a2ecd33fba204410ec8a291324a2f1d7c42b2cb580b521a408216718583441ea01897c0d1526ae2036ee7550a6c17fc3f9addde9afa23e961dc414e7143e8f0422e085886f16a950cbfc0e56d96c2d07fd87fb3b263d7d65cb537be2b2c20e800687801e9328a627db12df9073f581ad7fc7dae40733588d6a08514c9222067f714c230c676fe1499622000793130276c1567f3bd1ac087d7a639a54ef212a2d4ac398fe2e0169edd25655c1525a2b4b4a7ea0ec4db89355db6d71564181cd
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      d6f939535fcef1232c8e93b091f23db6cf8538dc3471489e50856b8ef9aea2d7187b5244e489d8fc0b77f0e53aac6d2250c84d46877d84666c37ca5d1227887313a2ecd33fba204410ec8a291324a2f1d7c42b2cb580b521a408216718583441ea01897c0d1526ae2036ee7550a6c17fc3f9addde9afa23e961dc414e7143e8f0422e085886f16a950cbfc0e56d96c2d07fd87fb3b263d7d65cb537be2b2c20e800687801e9328a627db12df9073f581ad7fc7dae40733588d6a08514c9222067f714c230c676fe1499622000793130276c1567f3bd1ac087d7a639a54ef212a2d4ac398fe2e0169edd25655c1525a2b4b4a7ea0ec4db89355db6d71564181cd: 
+        centrogenesis_com_br_d6f93_181cd_1576976518_dd5a7552438453db2753a2ef0d4aca4f: ~
+    subject.commonName: 
+      centrogenesis.com.br: 
+        centrogenesis_com_br_d6f93_181cd_1576976518_dd5a7552438453db2753a2ef0d4aca4f: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “centrogenesis.com.br”: centrogenesis_com_br_d6f93_181cd_1576976518_dd5a7552438453db2753a2ef0d4aca4f
+  key: 
+    friendly_name: 
+      Key for “centrogenesis.com.br”: d6f93_181cd_154439935ece4f1bf997b19746fc2e70
+    modulus: 
+      d6f939535fcef1232c8e93b091f23db6cf8538dc3471489e50856b8ef9aea2d7187b5244e489d8fc0b77f0e53aac6d2250c84d46877d84666c37ca5d1227887313a2ecd33fba204410ec8a291324a2f1d7c42b2cb580b521a408216718583441ea01897c0d1526ae2036ee7550a6c17fc3f9addde9afa23e961dc414e7143e8f0422e085886f16a950cbfc0e56d96c2d07fd87fb3b263d7d65cb537be2b2c20e800687801e9328a627db12df9073f581ad7fc7dae40733588d6a08514c9222067f714c230c676fe1499622000793130276c1567f3bd1ac087d7a639a54ef212a2d4ac398fe2e0169edd25655c1525a2b4b4a7ea0ec4db89355db6d71564181cd: d6f93_181cd_154439935ece4f1bf997b19746fc2e70
